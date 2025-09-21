@@ -35,9 +35,3 @@ The project includes **time-series plots, bar charts, box plots, and heatmaps** 
 
 ---
 
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/data-visualization-analytics.git
-   cd data-visualization-analytics
